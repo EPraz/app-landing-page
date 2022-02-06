@@ -2,7 +2,7 @@
   "name": "app-landing-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://epilepra.github.io/app-landing-page/",
+  "homepage": "https://epraz.github.io/app-landing-page/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
