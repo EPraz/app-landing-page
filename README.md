@@ -1,2 +1,2 @@
 Visit Page Here:
-https://epilepra.github.io/app-landing-page/
+https://epraz.github.io/app-landing-page/
